@@ -522,6 +522,3 @@ The following details describe the environment used while creating this project.
 
 | Scrape interval from setup | `60s` |
 
-**Do not add API tokens, passwords, tenant identifiers, or other private environment details to this README.** Keep credentials outside the repository and use placeholders in examples.
-
-
